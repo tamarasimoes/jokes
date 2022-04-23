@@ -5,7 +5,7 @@ const input = document.getElementById('input_nome');
 const resposta = () => {
     let respostaMensagem;
     if (input.value === 'Marina' || input.value === 'marina') {
-        respostaMensagem = `Já tomou a Skol Beats, Marina?`;
+        respostaMensagem = `Que bobajaaaada viu gente`;
     }
     else if (input.value === 'Alef' || input.value === 'alef' || input.value === 'lefin') {
         respostaMensagem = `Força, jovem!`;
